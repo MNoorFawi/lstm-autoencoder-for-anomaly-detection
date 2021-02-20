@@ -1,4 +1,4 @@
-# lstm-autoencoder-for-anomaly-detection
+# LSTM Autoencoder for Anomaly Detection
 Using LSTM Autoencoder to Detect Anomalies and Classify Rare Events.
 
 So many times, actually most of real-life data, we have unbalanced data. Data were the events in which we are interested the most are rare and not as frequent as the normal cases. As in fraud detection, for instance. Most of the data is normal cases, whether the data is already labeled or not, and we want to detect the anomalies or when the fraud happens.
